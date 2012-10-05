@@ -14,4 +14,9 @@
 
 This is the robot of team 2335.
 
-Someone needs to probably fill this out.                                       
+Location: Shawnee Mission East High School
+Gender: Both
+Age: 87
+Sexual Orientation: Bisexual
+Language: English, German, and Piglatin
+                                       
